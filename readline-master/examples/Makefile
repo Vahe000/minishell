@@ -21,7 +21,7 @@ RL_LIBRARY_VERSION = 8.2
 SHELL = /bin/sh
 RM = rm -f
 
-prefix = /Users/leyeghia/Desktop/minishell/readline_vahe
+prefix = /Users/vasargsy/Desktop/minishell/readline_vahe
 exec_prefix = ${prefix}
 
 datarootdir = ${prefix}/share
@@ -32,7 +32,7 @@ datadir = ${datarootdir}
 
 top_srcdir = ..
 #BUILD_DIR = .
-BUILD_DIR = /Users/leyeghia/Desktop/minishell/readline-master
+BUILD_DIR = /Users/vasargsy/Desktop/minishell/readline-master
 installdir = $(datadir)/readline
 
 INSTALL = /usr/bin/install -c
