@@ -1,4 +1,4 @@
-Minishell Project
+# Minishell Project
 
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" />
@@ -6,7 +6,7 @@ Minishell Project
 
 The minishell project is a Unix shell implementation for 42 School's curriculum.
 
-Description
+## Description
 
 This project requires you to implement a functional shell that can parse and execute basic commands, handle signal interruptions, and manage environment variables and paths. The shell must also support various built-in commands, such as cd, echo, and export, as well as the ability to execute external programs using the execve system call.
 
